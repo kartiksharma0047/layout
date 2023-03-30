@@ -1,0 +1,92 @@
+body{
+    background-color: orangered;
+}
+h1{
+    color: black;
+    border: #111111;
+    margin: 0;
+}
+#w{
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+li{
+    float: right;
+    border: 1px solid white;
+    border-bottom: 0ch;
+    border-top: 0ch;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+li a{
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    text-decoration:none ;
+}
+li a:hover{
+    background-color: #111111;
+}
+img{
+    width: 100%;
+    height: 400px;
+    margin: 0px;
+    padding: 0px;
+}
+#right{
+    width: 30%;
+    margin-left:15px;
+    margin-top: 0%;
+    padding-left: 15px;
+    float: right;
+    background-color: #fff;
+    font-style: italic; 
+}
+#left{
+    width: 30%;
+    float: left;
+    margin-top: 0%;
+    padding-left: 15px;
+    background-color: #fff;
+    font-style: italic;
+}
+#center{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 0%;
+    padding-left: 15px;
+    background-color: #fff;
+    font-style: italic;
+}
+#vertical{
+    margin-left:30px ;
+}
+tr{
+    background-color: #fff;
+}
+th{
+    text-align: left;
+    padding: 10px;
+    margin: 9px;
+    padding-left: 10px;
+    border:1px solid #fff;
+    border-radius: 3mm;
+}
+table{
+    border-right: 2px solid blue;
+    border-spacing: 5mm;
+    border-right-width: 5px;
+}
+.tab{
+    padding: 10px;
+    margin: 6px;
+    float: right;
+    width: 85%;
+    font-size: 5mm;
+}
